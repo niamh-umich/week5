@@ -1,0 +1,28 @@
+body {
+  background-color: #d3d3d3;
+  font-family: Arial, sans-serif;
+  text-align: center;
+  margin: 0;
+  padding: 20px;
+}
+
+h1 {
+  font-size: 28px;
+  font-weight: bold;
+  margin-bottom: 30px;
+}
+
+.image-frame {
+  display: block;
+  background-color: gray;
+  border: 10px solid blue;
+  padding: 30px;
+  margin: 30px auto;
+  width: fit-content;
+}
+
+.image-frame img {
+  display: block;
+  max-width: 300px;
+  height: auto;
+}
