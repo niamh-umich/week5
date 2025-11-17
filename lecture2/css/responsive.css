@@ -102,12 +102,8 @@
 @media (prefers-reduced-motion: reduce) {
   .grid div {
     transition: none !important;
-    box-shadow: none !important;
   }
 
-  .grid div:hover {
-    box-shadow: none !important;
-  }
 
   .gallery img {
     transform: none !important;
